@@ -1,0 +1,9 @@
+Los algoritmos son fundamentales en la resolución de problemas en ingeniería y computación, ya que proporcionan procedimientos sistemáticos para abordar tareas específicas. Sin embargo, su diseño y aplicación presentan diversos desafíos que los profesionales deben considerar.
+Retos en el diseño y aplicación de algoritmos:
+1.	Definición precisa del problema: Una comprensión incompleta o incorrecta puede conducir a soluciones ineficaces. Es esencial delinear claramente los objetivos y restricciones del problema.
+2.	Eficiencia computacional: Los algoritmos deben ser capaces de manejar grandes volúmenes de datos y operaciones complejas en tiempos razonables. La teoría de la complejidad computacional estudia la eficiencia de los algoritmos y clasifica los problemas según su dificultad inherente. 
+3.	Sesgos y equidad: Los algoritmos pueden perpetuar o amplificar desigualdades si se basan en datos sesgados. Es crucial identificar y mitigar estos sesgos para desarrollar sistemas más justos e inclusivos. 
+4.	Validación y prueba: Antes de su implementación, los algoritmos deben ser rigurosamente probados para garantizar su correcto funcionamiento en diferentes escenarios. Las pruebas de escritorio son una técnica común para validar algoritmos, permitiendo simular su comportamiento paso a paso. 
+5.	Adaptabilidad y mantenimiento: Los problemas y entornos pueden evolucionar, requiriendo que los algoritmos se adapten a nuevas condiciones sin perder eficacia.
+A pesar de estos desafíos, los algoritmos bien diseñados han demostrado ser herramientas poderosas. Por ejemplo, en el ámbito médico, un algoritmo de inteligencia artificial desarrollado en el Hospital Universitario Son Llàtzer de Mallorca puede adelantar el diagnóstico de la sepsis hasta 24 horas, con una fiabilidad del 96%, lo que ha contribuido a reducir significativamente la mortalidad asociada a esta afección.
+
